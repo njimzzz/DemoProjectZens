@@ -1,0 +1,28 @@
+/* Anatomy of a css syling */
+
+body{
+    background-color: aqua;
+}
+h1{
+    font-size: 220%;
+}
+
+
+.gen{
+    color: red;
+}
+
+.stdn{
+    color: chocolate;
+}
+
+#Zen1{
+    font-style: italic;
+}
+
+
+
+/* css selectors */
+/* 1.tag seletors
+2. class selectors
+3. ID selectors */
